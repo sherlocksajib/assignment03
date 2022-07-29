@@ -1,0 +1,10 @@
+.text-bold h1{
+    font-weight: bolder;
+}
+.bg-sky{
+    background-color: aqua;
+}
+.pos{
+ margin-top: 80px;
+ margin-left: 48%;
+}
