@@ -14,3 +14,17 @@
 .text-offwhite{
 color: rgb(80, 67, 60);
 }
+.text-darkish{
+    color: rgb(94, 88, 88);
+}
+.text-bold h4{
+font-weight: bolder;
+}
+.t-bold{
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+.navhead{
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
